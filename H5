@@ -2326,8 +2326,3 @@ def brute():
             print '\x1b[1;92m[!] File not found...'
  print """\n\x1b[1;91m[!] \x1b[1;93mAdd another wordlist corect name"""
             super()
-
-if __name__ == '__main__':
-	login()
-
-            super()
